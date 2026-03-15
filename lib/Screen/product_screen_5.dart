@@ -2,10 +2,9 @@ import 'package:e_commerce_app/Screen/payment_screen.dart';
 import 'package:e_commerce_app/Styles/color_styles.dart';
 import 'package:e_commerce_app/Styles/text_styles.dart';
 import 'package:flutter/material.dart';
-
-import '../Widget/my_portion_counter';
 import '../Widget/my_custom_app_bar.dart';
 import '../Widget/my_custom_button.dart';
+import '../Widget/my_portion_counter.dart';
 import '../Widget/my_spicy_slider.dart';
 import '../Widget/my_toppins_side_options.dart';
 

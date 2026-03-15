@@ -2,8 +2,8 @@ import 'package:e_commerce_app/Screen/product_screen_5.dart';
 import 'package:flutter/material.dart';
 import '../Styles/color_styles.dart';
 import '../Styles/text_styles.dart';
-import '../Widget/my_portion_counter';
 import '../Widget/my_custom_button.dart';
+import '../Widget/my_portion_counter.dart';
 import '../Widget/my_spicy_slider.dart';
 
 class ProductScreen extends StatelessWidget {
